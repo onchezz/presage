@@ -1,2 +1,3 @@
-# Bets Nomaree
+# Betings oracle 
+
 
